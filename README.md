@@ -1,9 +1,5 @@
 # AR_Qualcomm_SDK_Android
 
-
-
-TiJasmin
-
 ## License
 
           The MIT License (MIT)
